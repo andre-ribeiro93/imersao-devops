@@ -1,0 +1,11 @@
+venv
+__pycache__
+
+# no caso de estar utilizando node eu posso ignorar nesse arquivo a pasta *nodemodule*
+
+# Palavra-chave-1: MARVEL
+
+
+# Comandos importantes:
+# # docker build -t api-imersao-devops-alura .
+# # docker run -p 8000:8000 api-imersao-devops-alura
